@@ -62,45 +62,45 @@ If you believe there are additional works that should be included in our list, p
 #### Intervention Level Categorization
 ##### Text Encoder Level
 ###### Few-shot Unlearning
-1. [BMVC2024] [📄Paper](https://bmvc2024.org/proceedings/216/)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/fmp453/few-shot-erasing)
+1. [BMVC2024] [📄Paper](https://bmvc2024.org/proceedings/216/)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/fmp453/few-shot-erasing)    <br>
    Erasing Concepts from Text-to-Image Diffusion Models  with Few-shot Unlearning   
    
 ###### Loss-Based Embedding Modification
-1. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/40954ac18a457dd5f11145bae6454cdf-Paper-Conference.pdf)    [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/AdvUnlearn)
+1. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/40954ac18a457dd5f11145bae6454cdf-Paper-Conference.pdf)    [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/AdvUnlearn)   <br>
    Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models    
-2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2502.20623)
+2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2502.20623)  <br>
    SafeText: Safe Text-to-image Models via Aligning the Text Encoder
-3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2412.07249)
+3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2412.07249)  <br>
    Buster: Implanting Semantic Backdoor into Text Encoder to Mitigate NSFW  Content Generation
 
 ###### Text Encoder–Based Similarity Filtering
-1. [ACM CODASPY2025] [📄Paper](https://arxiv.org/abs/2404.19227)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ssg-research/concept-filtering)
+1. [ACM CODASPY2025] [📄Paper](https://arxiv.org/abs/2404.19227)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ssg-research/concept-filtering) <br>
    Espresso: Robust Concept Filtering in Text-to-Image Models
 
 ###### Principal Components-Based Embedding Modification
-1. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.15562)
+1. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.15562)  <br>
    CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary
-2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.16835)
+2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.16835)  <br>
    Safe and Reliable Diffusion Models via Subspace  Projection
-3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09446)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/NANSirun/Interpret-then-deactivate)
+3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09446)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/NANSirun/Interpret-then-deactivate)   <br>
    Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models
-4. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.19066)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/kim-dahye/steerers)
+4. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.19066)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/kim-dahye/steerers)  <br>
    Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable  Generations
-5. [ICML2025] [📄Paper](https://icml.cc/virtual/2025/poster/46380)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cywinski/SAeUron)
+5. [ICML2025] [📄Paper](https://icml.cc/virtual/2025/poster/46380)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cywinski/SAeUron)   <br>
    SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders
 
 ###### Multi-Constraint Embedding Erasure
-1. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.18877)        [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/aei13/DES)
+1. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.18877)        [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/aei13/DES)   <br>
    Distorting Embedding Space for Safety:  A Defense Mechanism for Adversarially Robust Diffusion Models
 
 ###### Token-Level Prompt Embedding Adjustment
-1. [ECCV2024] [📄Paper](https://arxiv.org/abs/2409.16535)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/DeepakSridhar/promptsliders)
+1. [ECCV2024] [📄Paper](https://arxiv.org/abs/2409.16535)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/DeepakSridhar/promptsliders)  <br>
    Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
-2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.03544)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/PromptGuard-727C/README.md)
+2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.03544)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/PromptGuard-727C/README.md)   <br>
    PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for  Text-to-Image Models
-3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2411.10329)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/Embedding-Sanitizer-166E/README.md)
+3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2411.10329)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/Embedding-Sanitizer-166E/README.md) <br>
    Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding
-4. [ACM WWW2025] [📄Paper](https://dl.acm.org/doi/10.1145/3696410.3714912)    
+4. [ACM WWW2025] [📄Paper](https://dl.acm.org/doi/10.1145/3696410.3714912)       <br>
    Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions
 
 <hr style="height:3px; border:none; background: linear-gradient(to right, #fff, #ddd, #fff);">
@@ -108,65 +108,65 @@ If you believe there are additional works that should be included in our list, p
 #### Non-Text Encoder Level
 ##### Cross-Attention-Based Erasure
 ###### Loss-Based Optimization
-1. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.html) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/erasing)
+1. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.html) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/erasing)  <br>
    Erasing Concepts from Diffusion Models
-2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.14232)
+2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.14232)  <br>
    CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion  Models
-3. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/nupurkmr9/concept-ablation)
+3. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/nupurkmr9/concept-ablation)  <br>
    Ablating Concepts in Text-to-Image Diffusion Models
-4. [NeurIPS2024] [📄Paper](https://openreview.net/pdf?id=8naq3XyGQe)
+4. [NeurIPS2024] [📄Paper](https://openreview.net/pdf?id=8naq3XyGQe) <br>
    Choose Your Anchor Wisely: Effective Unlearning Diffusion Models via Concept Reconditioning
-5. [arXiv2024] [📄Paper](https://arxiv.org/abs/2409.17682) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/RichardSunnyMeng/DarkMiner-official-codes)
+5. [arXiv2024] [📄Paper](https://arxiv.org/abs/2409.17682) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/RichardSunnyMeng/DarkMiner-official-codes)   <br>
    Dark Miner: Defend against unsafe generation for text-to-image diffusion models
-6. [arXiv2024] [📄Paper](https://arxiv.org/abs/2402.05947) [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Dlut-lab-zmn/SRS-ME)
+6. [arXiv2024] [📄Paper](https://arxiv.org/abs/2402.05947) [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Dlut-lab-zmn/SRS-ME) <br>
    Separable Multi-Concept Erasure from Diffusion Models
-7. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=OBjF5I4PWg) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Sirius11311/CoGFD-ICLR25)
+7. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=OBjF5I4PWg) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Sirius11311/CoGFD-ICLR25) <br>
    Erasing Concept Combination from Text-to-Image Diffusion Model
-8. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.13769)   [<span style="color:rgb(37,98,53);">:bulb:Code</span>](https://anonymous.4open.science/r/Decremental-Learning-0659/)
+8. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.13769)   [<span style="color:rgb(37,98,53);">:bulb:Code</span>](https://anonymous.4open.science/r/Decremental-Learning-0659/)   <br>
    Continual Unlearning for Foundational Text-to-Image Models without  Generalization Erosion
 
  
 
 ###### Attention-map-Based Optimization
-1. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Zhang_Forget-Me-Not_Learning_to_Forget_in_Text-to-Image_Diffusion_Models_CVPRW_2024_paper.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/SHI-Labs/Forget-Me-Not)
+1. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Zhang_Forget-Me-Not_Learning_to_Forget_in_Text-to-Image_Diffusion_Models_CVPRW_2024_paper.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/SHI-Labs/Forget-Me-Not)  <br>
    Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models
-2. [AAAI2024] [📄Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30107) 
+2. [AAAI2024] [📄Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30107)  <br>
    All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models
-3. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=w4C4z80w59)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CD22104/Growth-Inhibitors-for-Erasure)
+3. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=w4C4z80w59)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CD22104/Growth-Inhibitors-for-Erasure) <br>
    Growth Inhibitors for Suppressing Inappropriate Image Concepts in Diffusion Models
-4. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=ZRDhBwKs7l)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/CPE)
+4. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=ZRDhBwKs7l)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/CPE)   <br>
    Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate
-5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.01244)    [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/zhang-lingyun/ConceptReplacer)
+5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.01244)    [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/zhang-lingyun/ConceptReplacer) <br>
    Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization
-6. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.15197)
+6. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.15197)   <br>
    Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image  Generation via Guideline Token Optimization
-7. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer)
+7. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer) <br>
    CASteer: Steering Diffusion Models for Controllable Generation
 
 
 ###### Closed-form Optimization
-1. [WACV2024] [📄Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/unified-concept-editing)
+1. [WACV2024] [📄Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/unified-concept-editing)   <br>
    Unified Concept Editing in Diffusion Models
-2. [ECCV2024] [📄Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73668-1_5.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CharlesGong12/RECE)
+2. [ECCV2024] [📄Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73668-1_5.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CharlesGong12/RECE)  <br>
    Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models
-3. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_MACE_Mass_Concept_Erasure_in_Diffusion_Models_CVPR_2024_paper.pdf)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Shilin-LU/MACE)
+3. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_MACE_Mass_Concept_Erasure_in_Diffusion_Models_CVPR_2024_paper.pdf)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Shilin-LU/MACE)   <br>
    MACE: Mass Concept Erasure in Diffusion Models
-4. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2501.01633)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/120L020904/ACE)
+4. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2501.01633)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/120L020904/ACE) <br>
    ACE: Anti-Editing Concept Erasure in Text-to-Image Models
-5. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140)
+5. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140)  <br>
    RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining
-6. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.07389)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ddgoodgood/TRCE)
+6. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.07389)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ddgoodgood/TRCE) <br>
    TRCE: Towards Reliable Malicious Concept Erasure  in Text-to-Image Diffusion Models
-7. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.06143v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/WYuan1001/AdaVD)
+7. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.06143v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/WYuan1001/AdaVD) <br>
    Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters
-8. [arXiv2025] [📄Paper](https://export.arxiv.org/abs/2503.07392)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ouxiang-Li/SPEED)
+8. [arXiv2025] [📄Paper](https://export.arxiv.org/abs/2503.07392)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ouxiang-Li/SPEED)  <br>
    SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models
 
 
 ###### Externally guided or explicit intervention optimization
-1. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=KeJ6dGkiqb)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Erasing-KPOP)
+1. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=KeJ6dGkiqb)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Erasing-KPOP) <br>
    Hiding and Recovering Knowledge in Text-to-Image Diffusion Models via Learnable Prompts
-2. [NeurIPS2024] [📄Paper](https://papers.nips.cc/paper_files/paper/2024/file/92f43b1d33fae4aa1958f75317f0cec1-Paper-Conference.pdf)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/naver-ai/DUO)
+2. [NeurIPS2024] [📄Paper](https://papers.nips.cc/paper_files/paper/2024/file/92f43b1d33fae4aa1958f75317f0cec1-Paper-Conference.pdf)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/naver-ai/DUO)  <br>
    Direct Unlearning Optimization for Robust and Safe Text-to-Image Models
 
 
@@ -174,106 +174,184 @@ If you believe there are additional works that should be included in our list, p
 
 ##### UNet Level
 ###### Structural Pruning and Feature Removal
-1. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=kSdWcw5mkp)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ruchikachavhan/concept-prune)
+1. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=kSdWcw5mkp)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ruchikachavhan/concept-prune)   <br>
    ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning
-2. [NeurIPS2024] [📄Paper](https://openreview.net/pdf?id=jD1eWpUMOf)
+2. [NeurIPS2024] [📄Paper](https://openreview.net/pdf?id=jD1eWpUMOf) <br>
    Pruning for Robust Concept Erasing in Diffusion Models
-3. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.02542)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mail-research/CAD-attribution4diffusion)
+3. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.02542)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mail-research/CAD-attribution4diffusion) <br>
    Unveiling Concept Attribution in Diffusion Models
-4. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.03631v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mnpham0417/prompt-agnostic-concept-erasure)
+4. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.03631v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mnpham0417/prompt-agnostic-concept-erasure)   <br>
    Robust Concept Erasure Using Task Vectors
-5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)
+5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)   <br>
    Localized Concept Erasure for Text-to-Image Diffusion Models  Using Training-Free Gated Low-Rank Adaptation
 
 
 ###### Loss-Driven Concept Erasure
-1. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.html) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/erasing)
+1. [ICCV2023] [📄Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.html) [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/erasing)  <br>
    Erasing Concepts from Diffusion Models
-2. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler)
+2. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler) <br>
    Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers
-3. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Con6924/SPM)
+3. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Con6924/SPM)  <br>
    One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications
-4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.11850)
+4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.11850)  <br>
    ACE: Attentional Concept Erasure in Diffusion Models
-5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2401.05779)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/JingWu321/EraseDiff)
+5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2401.05779)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/JingWu321/EraseDiff)  <br>
    Erasing Undesirable Influence in Diffusion Models
-6. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2501.00054)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor)
+6. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2501.00054)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor)  <br>
    AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors
-7. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2412.00580)
+7. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2412.00580)  <br>
    Continuous Concepts Removal in Text-to-image Diffusion Models
-8. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2405.16341)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2405.16341)
+8. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2405.16341)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2405.16341)   <br>
    R.A.C.E. : Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model
-9. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.12782)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/lileyang1210/ANT)
+9. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.12782)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/lileyang1210/ANT)  <br>
     Set You Straight: Auto-Steering Denoising Trajectories  to Sidestep Unwanted Concepts
-10. [ICLR2024] [📄Paper](https://openreview.net/pdf?id=gn0mIhQGNM)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/Unlearn-Saliency)
+10. [ICLR2024] [📄Paper](https://openreview.net/pdf?id=gn0mIhQGNM)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/Unlearn-Saliency)   <br>
     SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation
-11. [NeurIPS2024] [📄Paper](https://arxiv.org/pdf/2410.15618)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation)
+11. [NeurIPS2024] [📄Paper](https://arxiv.org/pdf/2410.15618)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation)   <br>
     Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation
-12. [ICLR2025] [📄Paper](https://arxiv.org/pdf/2501.18950)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Adaptive-Guided-Erasure)
+12. [ICLR2025] [📄Paper](https://arxiv.org/pdf/2501.18950)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Adaptive-Guided-Erasure)   <br>
     Fantastic Targets for Concept Erasure in Diffusion Models and Where to Find Them
-13. [OpenReview2024] [📄Paper](https://openreview.net/pdf?id=Ox2A1WoKLm)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor)
+13. [OpenReview2024] [📄Paper](https://openreview.net/pdf?id=Ox2A1WoKLm)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor)   <br>
     Towards Robust Concept Erasure in Diffusion Models: Unlearning Identity, Nudity and Artistic Styles
-14. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2405.15304v2)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/yongliang-wu/DoCo)
+14. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2405.15304v2)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/yongliang-wu/DoCo)  <br>
     Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient
-15. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2408.16807)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/koushiksrivats/robust-concept-erasing)
+15. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2408.16807)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/koushiksrivats/robust-concept-erasing)  <br>
     STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models
-16. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2410.12777)   [<span style="color:rgb(144,144,144);">:bulb:Code</span>](https://github.com/sail-sg/Meta-Unlearning)
+16. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2410.12777)   [<span style="color:rgb(144,144,144);">:bulb:Code</span>](https://github.com/sail-sg/Meta-Unlearning)   <br>
     Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts
-17. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.19783)
+17. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.19783)  <br>
     Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models
-18. [ACM CCS2024] [📄Paper](https://arxiv.org/pdf/2404.06666)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/LetterLiGo/SafeGen_CCS2024)
+18. [ACM CCS2024] [📄Paper](https://arxiv.org/pdf/2404.06666)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/LetterLiGo/SafeGen_CCS2024)   <br>
     SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models
-19. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2310.05873)
+19. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2310.05873)  <br>
     Implicit Concept Removal of Diffusion Models
 
 
 ###### Additive Module or Parameters
-1. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Con6924/SPM)
+1. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Con6924/SPM)  <br>
    One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications
-2. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler)
+2. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler) <br>
    Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers
-3. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2501.01125)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Maplebb/DuMo)
+3. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2501.01125)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Maplebb/DuMo)   <br>
    DuMo: Dual Encoder Modulation Network for Precise Concept Erasure
-4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.16368)
+4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.16368)  <br>
    Concept Corrector: Erase concepts on the fly for text-to-image diffusion models
-5. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.10493)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Visualignment/SafetyDPO)
+5. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.10493)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Visualignment/SafetyDPO) <br>
    SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation
 
 ---
 
 #### Optimization-Based Catagorization
 ###### Adversarial Training
-1. [ACM CODASPY2025] [📄Paper](https://arxiv.org/abs/2404.19227)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ssg-research/concept-filtering)
+1. [ACM CODASPY2025] [📄Paper](https://arxiv.org/abs/2404.19227)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ssg-research/concept-filtering) <br>
    Espresso: Robust Concept Filtering in Text-to-Image Models
-2. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=ZRDhBwKs7l)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/CPE)
+2. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=ZRDhBwKs7l)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/CPE)   <br>
    Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate
-3. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=OBjF5I4PWg) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Sirius11311/CoGFD-ICLR25)
+3. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=OBjF5I4PWg) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Sirius11311/CoGFD-ICLR25) <br>
    Erasing Concept Combination from Text-to-Image Diffusion Model
-4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.11850)
+4. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.11850)  <br>
    ACE: Attentional Concept Erasure in Diffusion Models
-5. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.14232)
+5. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.14232)  <br>
    CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion  Models
-6. [arXiv2024] [📄Paper](https://arxiv.org/abs/2409.17682) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/RichardSunnyMeng/DarkMiner-official-codes)
+6. [arXiv2024] [📄Paper](https://arxiv.org/abs/2409.17682) [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/RichardSunnyMeng/DarkMiner-official-codes)   <br>
    Dark Miner: Defend against unsafe generation for text-to-image diffusion models
-7. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler)
+7. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler) <br>
    Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers
-8. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2408.16807)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/koushiksrivats/robust-concept-erasing)
+8. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2408.16807)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/koushiksrivats/robust-concept-erasing)   <br>
     STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models
-9. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2501.05359)
+9. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2501.05359)  <br>
     CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models
-10. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140)
+10. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140) <br>
     RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining
-11. [ECCV2024] [📄Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73668-1_5.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CharlesGong12/RECE)
+11. [ECCV2024] [📄Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73668-1_5.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CharlesGong12/RECE) <br>
    Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models
-12. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/40954ac18a457dd5f11145bae6454cdf-Paper-Conference.pdf)    [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/AdvUnlearn)
+12. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/40954ac18a457dd5f11145bae6454cdf-Paper-Conference.pdf)    [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/AdvUnlearn) <br>
    Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models
-13. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2501.00054)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor)
+13. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2501.00054)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor) <br>
    AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors
 
 
 
 ###### Closed-form Projections
+1. [WACV2024] [📄Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rohitgandikota/unified-concept-editing)   <br>
+   Unified Concept Editing in Diffusion Models
+2. [ECCV2024] [📄Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-73668-1_5.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CharlesGong12/RECE)  <br>
+   Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models
+3. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_MACE_Mass_Concept_Erasure_in_Diffusion_Models_CVPR_2024_paper.pdf)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Shilin-LU/MACE)   <br>
+   MACE: Mass Concept Erasure in Diffusion Models
+4. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.07389)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ddgoodgood/TRCE) <br>
+   TRCE: Towards Reliable Malicious Concept Erasure  in Text-to-Image Diffusion Models
+5. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.11850)  <br>
+   ACE: Attentional Concept Erasure in Diffusion Models
+6. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.06143v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/WYuan1001/AdaVD) <br>
+   Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters
+7. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2411.15537)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/JingWu321/MUNBa) <br>
+   MUNBa: Machine Unlearning via Nash Bargaining
+8. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.03631v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mnpham0417/prompt-agnostic-concept-erasure)   <br>
+   Robust Concept Erasure Using Task Vectors
+9. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)   <br>
+   Localized Concept Erasure for Text-to-Image Diffusion Models  Using Training-Free Gated Low-Rank Adaptation
+10. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=kSdWcw5mkp)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ruchikachavhan/concept-prune)   <br>
+   ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning
+11. [NeurIPS2024] [📄Paper](https://openreview.net/pdf?id=jD1eWpUMOf) <br>
+   Pruning for Robust Concept Erasing in Diffusion Models
+12. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.02542)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mail-research/CAD-attribution4diffusion) <br>
+   Unveiling Concept Attribution in Diffusion Models
+13. [ICLR2024] [📄Paper](https://openreview.net/pdf?id=gn0mIhQGNM)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/Unlearn-Saliency)   <br>
+    SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation
+14. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.15562)  <br>
+   CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary
+15. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.16835)  <br>
+   Safe and Reliable Diffusion Models via Subspace  Projection
+16. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140)  <br>
+   RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining
+
+
 ###### Plug-in Adapters
+1. [CVPR2024] [📄Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lyu_One-dimensional_Adapter_to_Rule_Them_All_Concepts_Diffusion_Models_and_CVPR_2024_paper.pdf)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Con6924/SPM)  <br>
+   One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications
+2. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2311.17717)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/jasper0314-huang/Receler) <br>
+   Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers
+3. [ECCV2024] [📄Paper](https://arxiv.org/abs/2409.16535)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/DeepakSridhar/promptsliders)  <br>
+   Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
+4. [ICML2025] [📄Paper](https://arxiv.org/pdf/2412.20413v2)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tomguluson92/eraseanything)  <br>
+   EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers
+5. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2410.02710)  <br>
+   SteerDiff: Steering towards Safe Text-to-Image Diffusion Models
+6. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=ZRDhBwKs7l)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/CPE) <br>
+   Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate
+7. [arXiv2025] [📄Paper](https://arxiv.org/abs/2411.10329)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/Embedding-Sanitizer-166E/README.md) <br>
+   Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding
+8. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2404.08031)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/rt219/LatentGuard) <br>
+   Latent Guard: a Safety Framework for Text-to-image Generation
+9. [NeurIPS2024] [📄Paper](https://arxiv.org/pdf/2403.01446)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cure-lab/GuardT2I) <br>
+    GuardT2I: Defending Text-to-Image Models from Adversarial Prompts
+10. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2503.09446) [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/NANSirun/Interpret-then-deactivate)  <br>
+    Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in  Text-to-Image Diffusion Models
+11. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.19066)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/kim-dahye/steerers)  <br>
+   Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable  Generations
+12. [ICML2025] [📄Paper](https://icml.cc/virtual/2025/poster/46380)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cywinski/SAeUron)   <br>
+   SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders
+13. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.01244)    [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/zhang-lingyun/ConceptReplacer) <br>
+   Concept Replacer: Replacing Sensitive Concepts in Diffusion Models via Precision Localization
+14. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2501.01125)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Maplebb/DuMo)   <br>
+   DuMo: Dual Encoder Modulation Network for Precise Concept Erasure
+15. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.16368)  <br>
+   Concept Corrector: Erase concepts on the fly for text-to-image diffusion models
+16. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.10493)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Visualignment/SafetyDPO) <br>
+   SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation
+17. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2409.17682)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/RichardSunnyMeng/DarkMiner-official-codes) <br>
+    Dark Miner: Defend against undesired generation for text-to-image diffusion models
+18. [ACM WWW2025] [📄Paper](https://dl.acm.org/doi/10.1145/3696410.3714912)       <br>
+   Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions
+19. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=KeJ6dGkiqb)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/tuananhbui89/Erasing-KPOP) <br>
+   Hiding and Recovering Knowledge in Text-to-Image Diffusion Models via Learnable Prompts
+20. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.03544)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/PromptGuard-727C/README.md)   <br>
+   PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for  Text-to-Image Models
+21. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer) <br>
+   CASteer: Steering Diffusion Models for Controllable Generation
+
+
 ###### Loss-Based Training Objectives
 
 
@@ -291,7 +369,7 @@ If you believe there are additional works that should be included in our list, p
 
 ---
 ## 🔗 Relevant Surveys
-[arxiv2025] [📄Paper](https://arxiv.org/abs/2502.14896)
+[arxiv2025] [📄Paper](https://arxiv.org/abs/2502.14896)  <br>
 A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models
 
 
