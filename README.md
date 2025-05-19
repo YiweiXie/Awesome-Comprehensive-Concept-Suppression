@@ -572,6 +572,19 @@ If you believe there are additional works that should be included in our list, p
 
 --- 
 ## Datasets
+| Dataset  | Year | Task  | paper | Link      |
+|----------|------|-------|-------|-----------|
+| I2P      | 2023 | NSFW Content |  [Safe Latent Diffusion:  Mitigating Inappropriate Degeneration in Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Schramowski_Safe_Latent_Diffusion_Mitigating_Inappropriate_Degeneration_in_Diffusion_Models_CVPR_2023_paper.pdf)  | [Download](https://huggingface.co/datasets/AIML-TUDA/i2p) |
+| CIFAR-10 | 2009 | Object Removal | [Learning Multiple Layers of Features from Tiny Images](https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)                 | [Download](https://huggingface.co/datasets/uoft-cs/cifar10) |
+| Small ImageNet | 2023 | Object Removal | [Erasing concepts from diffusion models](https://arxiv.org/pdf/2503.15197)  | [Download](https://github.com/rohitgandikota/erasing/tree/main/data) |
+| ESD    | 2023   | Artistic Style | [Erasing concepts from diffusion models](https://arxiv.org/pdf/2503.15197)  | [Download](https://github.com/rohitgandikota/erasing/tree/main/data) |
+| WikiArt | 2015  | Artistic Style | [Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature](https://arxiv.org/pdf/1505.00855)  | [Download](https://datasets.activeloop.ai/docs/ml/datasets/wiki-art-dataset/) |
+| MACE   | 2024   | Celebrity Identities | [MACE: Mass Concept Erasure in Diffusion Models](https://arxiv.org/pdf/2403.06135)  | [Download](https://github.com/Shilin-LU/MACE/tree/main/prompts_csv) |
+| CopyrightMeter | 2024 | Copyright Protection | [CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](https://arxiv.org/pdf/2411.13144)  | Download |
+| Six-CD | 2024 | Multi-Concept Erasure | [Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models](https://arxiv.org/pdf/2406.14855)  | [Download](https://github.com/Artanisax/Six-CD) |
+| HUB | 2024 | Multi-Concept Erasure | [Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning](https://arxiv.org/pdf/2410.05664)  | [Download](https://github.com/ml-postech/HUB) |
+| UnleanCanvas | 2024 | Multi-Concept Erasure | [UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/pdf/2402.11846)  | [Download](https://github.com/OPTML-Group/UnlearnCanvas) |
+| COCO-30K | 2014 | Utility | [Microsoft coco: Common objects in context](https://arxiv.org/pdf/1405.0312)  | [Download](https://huggingface.co/datasets/sayakpaul/coco-30-val-2014) |
 
 
 ---
