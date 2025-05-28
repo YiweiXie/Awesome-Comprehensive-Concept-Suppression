@@ -6,7 +6,7 @@ This repository provides a comprehensive investigation of concept erasure method
 
 ## 🔍 Concept Erasure in Text-to-Image Generative Models
 
-**Paper Title:** *Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression*  📄 **[arXiv Preprint](#)**  
+**Paper Title:** *Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression*  📄 **[arXiv Preprint](https://arxiv.org/pdf/2505.19398)**  
 
 
 ## 🧑‍💻 Authors
@@ -589,14 +589,56 @@ If you believe there are additional works that should be included in our list, p
 
 ---
 ## Evaluation and Benchmarking
-
-
+1. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2501.09833)   <br>
+   EraseBench: Understanding The Ripple Effects of Concept Erasure Techniques
+2. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.13989)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/fmp453/erase-eval) <br>
+   Erasing with Precision: Evaluating Specific Concept Erasure from Text-to-Image Generative Models
+3. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2501.12612)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/adwardlee/t2i_safety) <br>
+   T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation
+4. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2411.13144)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/bluedream02/CopyrightMeter) <br>
+   CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models
+5. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2410.05664)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ml-postech/HUB) <br>
+   Holistic Unlearning Benchmark:  A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning
+6. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2406.14855)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Artanisax/Six-CD) <br>
+   Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models
+7. [NeurIPS2024] [📄Paper](https://arxiv.org/pdf/2402.11846)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/UnlearnCanvas) <br>
+   UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models
 
 
 ---
 ## Adversarial Attacks
-
-
+1. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2503.17987v1)   <br>
+   Metaphor-based Jailbreaking Attacks on  Text-to-Image Models
+2. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2412.00782)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/matanr/Memories_of_Forgotten_Concepts) <br>
+   Memories of Forgotten Concepts
+3. [ICML2024] [📄Paper](https://arxiv.org/pdf/2309.06135)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/joycenerd/P4D) <br>
+   Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts
+4. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.19382)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/hxxdtd/PUND) <br>
+   Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective
+5. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.17537)   <br>
+   On the Vulnerability of Concept Erasure in Diffusion Models
+6. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2310.10012)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/chiayi-hsu/Ring-A-Bell) <br>
+   Ring-A-Bell! How Reliable are Concept Removal Methods for Diffusion Models?
+7. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2409.05668)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/respailab/unlearning-or-concealment) <br>
+   Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for  Unlearning in Diffusion Models
+8. [ICML2024] [📄Paper](https://arxiv.org/pdf/2405.11336)   <br>
+   UPAM: Unified Prompt Attack in Text-to-Image Generation Models  Against Both Textual Filters and Visual Checkers
+9. [CVPR2024] [📄Paper](https://arxiv.org/pdf/2311.17516)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cure-lab/MMA-Diffusion?tab=readme-ov-file) <br>
+    MMA-Diffusion: MultiModal Attack on Diffusion Models
+10. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2308.01508)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/NYU-DICE-Lab/circumventing-concept-erasure) <br>
+    Circumventing Concept Erasure Methods For Text-to-Image Generative Models
+11. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2404.13706)   <br>
+    Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models
+12. [NAACL2025] [📄Paper](https://aclanthology.org/2025.findings-naacl.172.pdf)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://aclanthology.org/2025.findings-naacl.172.pdf) <br>
+    Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models
+13. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2503.01839)    <br>
+    Jailbreaking Safeguarded Text-to-Image Models via Large Language Models
+14. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2310.11868)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/Diffusion-MU-Attack)  <br>
+    To Generate or Not? Safety-Driven  Unlearned Diffusion Models Are Still  Easy to Generate Unsafe Images ... For  Now
+15. [Oakland2024] [📄Paper](https://arxiv.org/pdf/2305.12082)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Yuchen413/text2image_safety)  <br>
+    SneakyPrompt: Jailbreaking Text-to-image Generative Models
+16. [ICML2024] [📄Paper](https://arxiv.org/pdf/2405.16567)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Kim-Minseon/APGP)  <br>
+    Automatic Jailbreaking of the Text-to-Image Generative AI Systems
 
 
 ---
@@ -609,9 +651,12 @@ A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models
 ## 📌 Citation
 
 ```bibtex
-@article{,
-  title={},
-  author={},
-  journal={arXiv:2505.xxxxx},
-  year={2025}
+@misc{xie2025erasingconceptssteeringgenerations,
+      title={Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression}, 
+      author={Yiwei Xie and Ping Liu and Zheng Zhang},
+      year={2025},
+      eprint={2505.19398},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.19398}, 
 }
