@@ -653,7 +653,7 @@ A Comprehensive Survey on Concept Erasure in Text-to-Image Diffusion Models
 ```bibtex
 @misc{xie2025erasingconceptssteeringgenerations,
       title={Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression}, 
-      author={Yiwei Xie and Ping Liu and Zheng Zhang},
+      author={Yiwei Xie and Ping Liu* and Zheng Zhang*},
       year={2025},
       eprint={2505.19398},
       archivePrefix={arXiv},
