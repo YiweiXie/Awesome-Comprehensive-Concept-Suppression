@@ -93,6 +93,11 @@ If you believe there are additional works that should be included in our list, p
    Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable  Generations
 5. [ICML2025] [📄Paper](https://icml.cc/virtual/2025/poster/46380)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cywinski/SAeUron)   <br>
    SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders
+6. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
+   CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
+7. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
+
 
 ###### Multi-Constraint Embedding Erasure
 1. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.18877)        [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/aei13/DES)   <br>
@@ -101,12 +106,16 @@ If you believe there are additional works that should be included in our list, p
 ###### Token-Level Prompt Embedding Adjustment
 1. [ECCV2024] [📄Paper](https://arxiv.org/abs/2409.16535)       [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/DeepakSridhar/promptsliders)  <br>
    Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
-2. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.03544)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/PromptGuard-727C/README.md)   <br>
+2. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2402.05375)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/sen-mao/SuppressEOT) <br>
+   Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models
+3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2501.03544)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/PromptGuard-727C/README.md)   <br>
    PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for  Text-to-Image Models
-3. [arXiv2025] [📄Paper](https://arxiv.org/abs/2411.10329)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/Embedding-Sanitizer-166E/README.md) <br>
+4. [arXiv2025] [📄Paper](https://arxiv.org/abs/2411.10329)      [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/Embedding-Sanitizer-166E/README.md) <br>
    Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding
-4. [ACM WWW2025] [📄Paper](https://dl.acm.org/doi/10.1145/3696410.3714912)       <br>
+5. [ACM WWW2025] [📄Paper](https://dl.acm.org/doi/10.1145/3696410.3714912)       <br>
    Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions
+
+
 
 <hr style="height:3px; border:none; background: linear-gradient(to right, #fff, #ddd, #fff);">
 
@@ -147,6 +156,8 @@ If you believe there are additional works that should be included in our list, p
    Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image  Generation via Guideline Token Optimization
 7. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer) <br>
    CASteer: Steering Diffusion Models for Controllable Generation
+8. [ICML2025] [📄Paper](https://arxiv.org/pdf/2505.11131)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ferry-Li/Co-Erasing) <br>
+    One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework
 
 
 ###### Closed-form Optimization
@@ -310,6 +321,10 @@ If you believe there are additional works that should be included in our list, p
    Safe and Reliable Diffusion Models via Subspace  Projection
 16. [arXiv2024] [📄Paper](https://arxiv.org/abs/2410.09140)  <br>
    RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining
+17. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
+   CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
+18. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
 
 
 ###### Plug-in Adapters
@@ -355,6 +370,8 @@ If you believe there are additional works that should be included in our list, p
    PromptGuard: Soft Prompt-Guided Unsafe Content Moderation for  Text-to-Image Models
 21. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer) <br>
    CASteer: Steering Diffusion Models for Controllable Generation
+22. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.23312)    <br>
+    TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models
 
 
 ###### Loss-Based Training Objectives
@@ -562,6 +579,16 @@ If you believe there are additional works that should be included in our list, p
    ACE: Attentional Concept Erasure in Diffusion Models
 28. [arXiv2025] [📄Paper](https://arxiv.org/abs/2503.09630)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/Atmyre/CASteer) <br>
    CASteer: Steering Diffusion Models for Controllable Generation
+29. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.23312)    <br>
+    TRACE: Trajectory-Constrained Concept Erasure in Diffusion Modelss
+30. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2402.05375)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/sen-mao/SuppressEOT) <br>
+   Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models
+31. [ICML2025] [📄Paper](https://arxiv.org/pdf/2505.11131)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ferry-Li/Co-Erasing) <br>
+    One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Frameworks
+32. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
+   CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
+33. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
 
 
 
@@ -603,6 +630,8 @@ If you believe there are additional works that should be included in our list, p
    Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models
 7. [NeurIPS2024] [📄Paper](https://arxiv.org/pdf/2402.11846)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/OPTML-Group/UnlearnCanvas) <br>
    UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models
+8. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.15450)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://anonymous.4open.science/r/ErasureBenchmark-7BBB/README.mds) <br>
+   Comprehensive Evaluation and Analysis for NSFW Concept Erasure in Text-to-Image Diffusion Models
 
 
 ---
@@ -639,6 +668,28 @@ If you believe there are additional works that should be included in our list, p
     SneakyPrompt: Jailbreaking Text-to-image Generative Models
 16. [ICML2024] [📄Paper](https://arxiv.org/pdf/2405.16567)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Kim-Minseon/APGP)  <br>
     Automatic Jailbreaking of the Text-to-Image Generative AI Systems
+17. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/b733cdd80ed2ae7e3156d8c33108c5d5-Paper-Conference.pdf)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/duchengbin8/Stable_Diffusion_is_Unstable)  <br>
+    Stable diffusion is unstable
+18. [EMNLP2024] [📄Paper](https://arxiv.org/pdf/2409.15381)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/shahariar-shibli/Adversarial-Attack-on-POS-Tags)  <br>
+    Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation
+19. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2408.00523)   <br>
+    Jailbreaking Text-to-Image Models with LLM-Based Agents
+20. [ACM CCS 2024] [📄Paper](https://arxiv.org/pdf/2309.14122)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Zjm1900/SurrogatePrompt?tab=readme-ov-file) <br>
+    SurrogatePrompt: Bypassing the Safety Filter of Text-to-Image Models via Substitution
+21. [ACL2025] [📄Paper](https://arxiv.org/pdf/2408.11071)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/CherryBlueberry/DiffZOO)  <br>
+    DiffZOO: A Purely Query-Based Black-Box Attack for Red-teaming Text-to-Image Generative Model via Zeroth Order Optimization
+22. [AAAI2025] [📄Paper](https://arxiv.org/pdf/2408.10848)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/LeLiang-SJTU/Perception-guided-Jailbreak-)  <br>
+    Perception-guided Jailbreak against Text-to-Image Models
+23. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.16174)   <br>
+    Erased or Dormant? Rethinking Concept Erasure Through Reversibility
+24. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
+25. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21072)    <br>
+   Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
+
+---
+## 🔗 Relevant Surveys
+[arxiv2025] [📄Paper](https://arxiv.org/abs/2502.14896)  <br>
 
 
 ---
