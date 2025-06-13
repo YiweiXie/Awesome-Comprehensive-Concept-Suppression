@@ -93,9 +93,7 @@ If you believe there are additional works that should be included in our list, p
    Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable  Generations
 5. [ICML2025] [📄Paper](https://icml.cc/virtual/2025/poster/46380)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/cywinski/SAeUron)   <br>
    SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders
-6. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
-   CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
-7. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+6. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
    The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
 
 
@@ -177,6 +175,8 @@ If you believe there are additional works that should be included in our list, p
    Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters
 8. [arXiv2025] [📄Paper](https://export.arxiv.org/abs/2503.07392)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ouxiang-Li/SPEED)  <br>
    SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models
+9. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
+   CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
 
 
 ###### Externally guided or explicit intervention optimization
@@ -198,8 +198,10 @@ If you believe there are additional works that should be included in our list, p
    Unveiling Concept Attribution in Diffusion Models
 4. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.03631v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mnpham0417/prompt-agnostic-concept-erasure)   <br>
    Robust Concept Erasure Using Task Vectors
-5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)   <br>
+5. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/GLoCE)   <br>
    Localized Concept Erasure for Text-to-Image Diffusion Models  Using Training-Free Gated Low-Rank Adaptation
+6. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2504.02199)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/KU-VGI/ESC)   <br>
+   ESC: Erasing Space Concept for Knowledge Deletion
 
 
 ###### Loss-Driven Concept Erasure
@@ -305,7 +307,7 @@ If you believe there are additional works that should be included in our list, p
    MUNBa: Machine Unlearning via Nash Bargaining
 8. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2404.03631v2)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/mnpham0417/prompt-agnostic-concept-erasure)   <br>
    Robust Concept Erasure Using Task Vectors
-9. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)   <br>
+9. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/GLoCE)   <br>
    Localized Concept Erasure for Text-to-Image Diffusion Models  Using Training-Free Gated Low-Rank Adaptation
 10. [ICLR2025] [📄Paper](https://openreview.net/pdf?id=kSdWcw5mkp)    [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ruchikachavhan/concept-prune)   <br>
    ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning
@@ -325,6 +327,12 @@ If you believe there are additional works that should be included in our list, p
    CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
 18. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
    The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
+19. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2402.05375)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/sen-mao/SuppressEOT) <br>
+   Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models
+20. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2504.02199)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/KU-VGI/ESC)   <br>
+   ESC: Erasing Space Concept for Knowledge Deletion
+
+
 
 
 ###### Plug-in Adapters
@@ -451,6 +459,8 @@ If you believe there are additional works that should be included in our list, p
     SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models
 38. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2310.05873)  <br>
     Implicit Concept Removal of Diffusion Models
+39. [ICML2025] [📄Paper](https://arxiv.org/pdf/2505.11131)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ferry-Li/Co-Erasing) <br>
+    One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework
 
 ---
 
@@ -520,6 +530,8 @@ If you believe there are additional works that should be included in our list, p
     SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models
 32. [ACM CODASPY2025] [📄Paper](https://arxiv.org/abs/2404.19227)     [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/ssg-research/concept-filtering) <br>
    Espresso: Robust Concept Filtering in Text-to-Image Models
+33. [CVPR2025] [📄Paper](https://drive.google.com/file/d/1svUXu-COwCSKC3XHiUvbVp0bYe1ukqlg/view)   <br>
+    Black Hole-Driven Identity Absorbing in Diffusion Models
 
 
 ###### Multi-concept
@@ -559,7 +571,7 @@ If you believe there are additional works that should be included in our list, p
    Safe Latent Diffusion:  Mitigating Inappropriate Degeneration in Diffusion Models
 18. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2502.08011)   
    Training-Free Safe Denoisers for Safe Use of Diffusion Models
-19. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://arxiv.org/pdf/2503.12356)   <br>
+19. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2503.12356)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Hyun1A/GLoCE)   <br>
    Localized Concept Erasure for Text-to-Image Diffusion Models  Using Training-Free Gated Low-Rank Adaptation
 20. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2412.10493)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Visualignment/SafetyDPO) <br>
    SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation
@@ -584,11 +596,14 @@ If you believe there are additional works that should be included in our list, p
 30. [ICLR2024] [📄Paper](https://arxiv.org/pdf/2402.05375)   [<span style="color: rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/sen-mao/SuppressEOT) <br>
    Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models
 31. [ICML2025] [📄Paper](https://arxiv.org/pdf/2505.11131)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Ferry-Li/Co-Erasing) <br>
-    One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Frameworks
-32. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
+    One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework
+32. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
+   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning 
+33. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2505.12677)      <br>
    CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models
-33. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21307)    <br>
-   The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
+34. [CVPR2025] [📄Paper](https://arxiv.org/pdf/2504.02199)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/KU-VGI/ESC)   <br>
+   ESC: Erasing Space Concept for Knowledge Deletion
+
 
 
 
@@ -671,7 +686,7 @@ If you believe there are additional works that should be included in our list, p
 17. [NeurIPS2024] [📄Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/b733cdd80ed2ae7e3156d8c33108c5d5-Paper-Conference.pdf)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/duchengbin8/Stable_Diffusion_is_Unstable)  <br>
     Stable diffusion is unstable
 18. [EMNLP2024] [📄Paper](https://arxiv.org/pdf/2409.15381)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/shahariar-shibli/Adversarial-Attack-on-POS-Tags)  <br>
-    Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation
+    Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation 
 19. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2408.00523)   <br>
     Jailbreaking Text-to-Image Models with LLM-Based Agents
 20. [ACM CCS 2024] [📄Paper](https://arxiv.org/pdf/2309.14122)  [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/Zjm1900/SurrogatePrompt?tab=readme-ov-file) <br>
@@ -686,11 +701,8 @@ If you believe there are additional works that should be included in our list, p
    The Dual Power of Interpretable Token Embeddings: Jailbreaking Attacks and Defenses for Diffusion Model Unlearning
 25. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2504.21072)    <br>
    Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
-
----
-## 🔗 Relevant Surveys
-[arxiv2025] [📄Paper](https://arxiv.org/abs/2502.14896)  <br>
-
+26. [CVPR2025] [📄Paper](https://drive.google.com/file/d/1svUXu-COwCSKC3XHiUvbVp0bYe1ukqlg/view)   <br>
+    Black Hole-Driven Identity Absorbing in Diffusion Models
 
 ---
 ## 🔗 Relevant Surveys
