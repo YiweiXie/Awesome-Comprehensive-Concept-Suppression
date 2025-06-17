@@ -243,6 +243,8 @@ If you believe there are additional works that should be included in our list, p
     SafeGen: Mitigating Sexually Explicit Content Generation in Text-to-Image Models
 19. [ECCV2024] [📄Paper](https://arxiv.org/pdf/2310.05873)  <br>
     Implicit Concept Removal of Diffusion Models
+20. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2506.09363)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/KevinLight831/SAGE) <br>
+    SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing
 
 
 ###### Additive Module or Parameters
@@ -287,6 +289,8 @@ If you believe there are additional works that should be included in our list, p
    Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models
 13. [arXiv2024] [📄Paper](https://arxiv.org/pdf/2501.00054)   [<span style="color:rgb(37, 98, 53);">:bulb:Code</span>](https://github.com/zhengyuxiang/AdvAnchor) <br>
    AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors
+14. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2506.09363)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/KevinLight831/SAGE) <br>
+    SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing
 
 
 
@@ -532,6 +536,8 @@ If you believe there are additional works that should be included in our list, p
    Espresso: Robust Concept Filtering in Text-to-Image Models
 33. [CVPR2025] [📄Paper](https://drive.google.com/file/d/1svUXu-COwCSKC3XHiUvbVp0bYe1ukqlg/view)   <br>
     Black Hole-Driven Identity Absorbing in Diffusion Models
+34. [arXiv2025] [📄Paper](https://arxiv.org/pdf/2506.09363)   [<span style="color:rgb(144, 144, 144);">:bulb:Code</span>](https://github.com/KevinLight831/SAGE) <br>
+    SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing
 
 
 ###### Multi-concept
