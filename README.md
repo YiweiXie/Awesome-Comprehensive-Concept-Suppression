@@ -48,6 +48,7 @@ If you believe there are additional works that should be included in our list, p
       - [Closed-form Projections](#closed-form-projections)
       - [Plug-in Adapters](#plug-in-adapters)
       - [Loss-Based Training Objectives](#loss-based-training-objectives)
+      - [Reinforcement](#reinforcement)
     - [Application Stage](#application-stage)
       - [Training Time](#training-time)
       - [Inference Time](#inference-time)
